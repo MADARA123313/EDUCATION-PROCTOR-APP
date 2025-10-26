@@ -1,0 +1,17 @@
+Flask==2.3.3
+Flask-CORS==4.0.0
+Flask-SocketIO==5.3.6
+psutil==5.9.6
+watchdog==3.0.0
+requests==2.31.0
+python-socketio==5.9.0
+eventlet==0.33.3
+WMI==1.5.1
+qrcode[pil]==7.4.2
+Pillow==10.0.0
+reportlab==4.0.4
+openpyxl==3.1.2
+pyautogui==0.9.54
+pywin32==306
+opencv-python==4.8.1.78
+PyAudio==0.2.13
